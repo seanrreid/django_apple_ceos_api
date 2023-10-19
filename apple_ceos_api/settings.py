@@ -74,7 +74,6 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'apple_ceos_api.wsgi.application'
 
-
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
 
